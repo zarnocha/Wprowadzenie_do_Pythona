@@ -1,0 +1,8 @@
+plik
+numer
+jeden
+-----
+plik
+numer
+dwa
+-----
